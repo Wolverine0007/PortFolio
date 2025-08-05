@@ -32,13 +32,11 @@ A modern, responsive portfolio website built with React and Tailwind CSS showcas
 - React Scroll for smooth navigation
 - React Typed for animated text
 - Axios for API calls
-- **PWA Support** with manifest.json
-- **SEO Optimized** with meta tags
+
 
 ### 🆕 **New Features Added**
 - **Skills Progress Bars**: Animated skill level indicators
 - **Project Showcase**: Real projects with descriptions and links
-- **Dark Mode**: Complete dark theme support
 - **Scroll-to-Top Button**: Easy navigation back to top
 - **Resume Download**: PDF resume download functionality
 - **Loading Spinner**: Custom loading animations
