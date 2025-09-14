@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sanketbanate.netlify.app/sitemap.xml
