@@ -31,11 +31,14 @@ function Home() {
               </div>
             </div>
 
-            <p className="text-lg text-gray-700 leading-relaxed">
-              I am skilled in C++, Java, Python and JavaScript with expertise in programming, web development, and database management.
-              I excel in problem-solving, data analysis, and creating user-friendly interfaces. My experience in project management
-              and applied mathematics enhances my ability to deliver innovative and efficient solutions.
-            </p>
+         <p className="text-lg text-gray-700 leading-relaxed">
+  I am skilled in C++ with a strong foundation in competitive programming.
+  I have hands-on experience in web development, AWS cloud computing, and computer networking.
+  My expertise includes solving complex problems efficiently, building scalable web applications,
+  and understanding core networking concepts. I focus on writing optimized code and delivering
+  reliable, user-friendly solutions.
+</p>
+
 
             <div className="flex flex-col space-y-8 md:space-y-0 md:flex-row md:justify-between md:items-start">
               <div className="space-y-4">
