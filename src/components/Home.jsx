@@ -31,13 +31,12 @@ function Home() {
               </div>
             </div>
 
-         <p className="text-lg text-gray-700 leading-relaxed">
-  I am skilled in C++ with a strong foundation in competitive programming.
-  I have hands-on experience in web development, AWS cloud computing, and computer networking.
-  My expertise includes solving complex problems efficiently, building scalable web applications,
-  and understanding core networking concepts. I focus on writing optimized code and delivering
-  reliable, user-friendly solutions.
+<p className="text-lg text-gray-700 leading-relaxed">
+  I am a C++ programmer and web developer with a strong interest in cloud technologies.
+  I enjoy building modern web applications, deploying them on AWS, and applying competitive
+  programming concepts to write efficient and optimized solutions.
 </p>
+
 
 
             <div className="flex flex-col space-y-8 md:space-y-0 md:flex-row md:justify-between md:items-start">
