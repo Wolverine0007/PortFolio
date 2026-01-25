@@ -51,7 +51,7 @@ function Experience() {
             className="max-w-screen-2xl container mx-auto px-4 md:px-20 my-16 py-16 bg-gradient-to-br from-gray-50 to-green-50 rounded-xl">
             <div>
                 <h1 className="text-4xl font-bold mb-2 text-center">Experience</h1>
-                <p className="text-gray-600 text-center mb-8">Technologies I've worked with for over 1 year</p>
+                <p className="text-gray-600 text-center mb-8">Technologies I've worked with </p>
                 <span className="inline-block w-24 h-1 bg-green-500 mx-auto mb-8"></span>
 
                 <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-6 my-8">

@@ -85,7 +85,7 @@ function About() {
               Skills & Expertise
             </h2>
             <div className="space-y-3">
-              <p className="text-gray-700 dark:text-gray-300"><span className="font-semibold">Proficient in:</span> Java, C++, Python, HTML, CSS</p>
+              <p className="text-gray-700 dark:text-gray-300"><span className="font-semibold">Proficient in:</span> Java, C++, Python</p>
               <p className="text-gray-700 dark:text-gray-300"><span className="font-semibold">Experienced with:</span> Tableau, database management systems, and web development tools</p>
               <p className="text-gray-700 dark:text-gray-300"><span className="font-semibold">Strong grasp of:</span> Data analysis, algorithm design, and web design principles</p>
               <p className="text-gray-700 dark:text-gray-300"><span className="font-semibold">Problem-solving:</span> Adept at tackling complex challenges in programming and data visualization</p>
