@@ -16,11 +16,13 @@ function About() {
 
       <div className="max-w-4xl mx-auto">
         <div className="bg-white dark:bg-gray-800 p-8 rounded-xl shadow-lg mb-8">
-          <p className="text-lg text-gray-700 dark:text-gray-300 leading-relaxed mb-6">
-            Hello, I'm <span className="font-semibold text-orange-600 dark:text-orange-400">Sanket Banate</span>, a competitive programmer and passionate Web developer with a keen eye for
-            MERN Stack. With a background in IT, I strive to create impactful
-            and visually stunning Software solutions that leave a lasting impression.
-          </p>
+        <p className="text-lg text-gray-700 dark:text-gray-300 leading-relaxed mb-6">
+      Hello, I'm <span className="font-semibold text-orange-600 dark:text-orange-400">Sanket Banate</span>, a C++ programmer
+      with a strong foundation in competitive programming. I have hands-on experience in web development,
+      AWS cloud computing, and computer networking. With a background in IT, I enjoy solving complex problems,
+      building efficient applications, and understanding how systems work from code to network level.
+      I aim to create reliable, scalable, and user-friendly software solutions.
+    </p>
 
           <div className="flex flex-col items-center md:flex-row justify-between space-y-6 md:space-y-0 mb-8">
             <div className="space-y-4">
