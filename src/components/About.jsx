@@ -76,6 +76,10 @@ function About() {
                   </a>
                 </div>
               </div>
+              <div>
+                <h3 className="font-semibold text-gray-800 dark:text-white mb-3">Achievements:</h3>
+                <p className="text-gray-600 dark:text-gray-300">• Cisco APJC NetAcad Riders Competition 2026 — All India Rank 51</p>
+              </div>
             </div>
           </div>
 
@@ -85,8 +89,8 @@ function About() {
               Skills & Expertise
             </h2>
             <div className="space-y-3">
-              <p className="text-gray-700 dark:text-gray-300"><span className="font-semibold">Proficient in:</span> Java, C++, Python</p>
-              <p className="text-gray-700 dark:text-gray-300"><span className="font-semibold">Experienced with:</span> Tableau, database management systems, and web development tools</p>
+              <p className="text-gray-700 dark:text-gray-300"><span className="font-semibold">Proficient in:</span> C++, Python</p>
+              <p className="text-gray-700 dark:text-gray-300"><span className="font-semibold">Experienced with:</span> AWS cloud, MySQL Database, database management systems, and web development tools</p>
               <p className="text-gray-700 dark:text-gray-300"><span className="font-semibold">Strong grasp of:</span> Data analysis, algorithm design, and web design principles</p>
               <p className="text-gray-700 dark:text-gray-300"><span className="font-semibold">Problem-solving:</span> Adept at tackling complex challenges in programming and data visualization</p>
               <p className="text-gray-700 dark:text-gray-300"><span className="font-semibold">Communication:</span> Skilled in teamwork and delivering clear, impactful solutions</p>

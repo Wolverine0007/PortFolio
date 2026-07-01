@@ -5,7 +5,7 @@ function ResumeDownload() {
   const handleDownload = () => {
     // Create a link element
     const link = document.createElement('a');
-    link.href = '/Resume Sanket.pdf'; 
+    link.href = '/Resume%20Sanket%20.pdf';
     link.download = 'Sanket_Banate_Resume.pdf';
     link.target = '_blank';
     

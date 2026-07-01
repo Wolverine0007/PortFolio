@@ -1,6 +1,6 @@
 import React from 'react';
-import { FaHtml5, FaCss3Alt, FaJs, FaReact, FaNodeJs, FaPython, FaJava } from 'react-icons/fa';
-import { SiMongodb, SiExpress, SiTailwindcss, SiGit, SiGithub } from 'react-icons/si';
+import { FaHtml5, FaCss3Alt, FaJs, FaReact, FaNodeJs, FaPython, FaJava, FaNetworkWired } from 'react-icons/fa';
+import { SiMongodb, SiExpress, SiTailwindcss, SiGit, SiGithub, SiAmazon, SiMysql, SiLinux } from 'react-icons/si';
 
 function Skills() {
   const skills = [
@@ -11,6 +11,10 @@ function Skills() {
     { name: 'Node.js', icon: FaNodeJs, color: 'from-green-500 to-green-600' },
     { name: 'Python', icon: FaPython, color: 'from-blue-600 to-blue-700' },
     { name: 'Java', icon: FaJava, color: 'from-red-500 to-red-600' },
+    { name: 'AWS Cloud', icon: SiAmazon, color: 'from-yellow-500 to-orange-500' },
+    { name: 'Computer Networking', icon: FaNetworkWired, color: 'from-sky-500 to-blue-600' },
+    { name: 'MySQL', icon: SiMysql, color: 'from-sky-600 to-cyan-600' },
+    { name: 'Linux', icon: SiLinux, color: 'from-gray-700 to-black' },
     { name: 'MongoDB', icon: SiMongodb, color: 'from-green-600 to-green-700' },
     { name: 'Express.js', icon: SiExpress, color: 'from-gray-600 to-gray-700' },
     { name: 'Tailwind CSS', icon: SiTailwindcss, color: 'from-cyan-500 to-cyan-600' },

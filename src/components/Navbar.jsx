@@ -1,5 +1,4 @@
 import React, { useState } from 'react'
-import pic from "../../public/photo.avif"
 import { AiOutlineMenu } from "react-icons/ai";
 import { IoCloseOutline } from "react-icons/io5";
 import { Link } from "react-scroll"
@@ -34,7 +33,7 @@ function Navbar() {
       <div className="max-w-screen-2xl container mx-auto px-4 md:px-20 h-16 shadow-lg fixed top-0 left-0 right-0 z-50 bg-white/95 backdrop-blur-sm">
         <div className="flex justify-between items-center h-16">
           <div className="flex space-x-3 items-center">
-            <img src="Sanket.png" className="h-12 w-12 rounded-full border-2 border-blue-500" alt="Sanket" />
+            <img src="/sanket.png" className="h-12 w-12 rounded-full border-2 border-blue-500" alt="Sanket" />
             <div>
               <h1 className="font-bold text-xl cursor-pointer text-gray-800">
                 Sank<span className="text-blue-500 text-2xl">et</span>

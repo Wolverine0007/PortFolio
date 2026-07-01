@@ -36,7 +36,7 @@ function Experience() {
             id: 5,
             logo: cpp,
             name: "C++",
-            experience: "1+ years"
+            experience: "2 years"
         },
         {
             id: 6,
